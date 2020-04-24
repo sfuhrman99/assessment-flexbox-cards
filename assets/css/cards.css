@@ -54,6 +54,7 @@ html {
 
 .cardContainer {
   display: flex;
+  max-width: 540px;
   
 }
 
